@@ -1,6 +1,6 @@
 # Namelix – AI Business Name Generator
 
-[![Namelix](https://urlcare.com/wp-content/uploads/2025/01/namelix-banner.jpg)](https://urlcare.com/namelix)
+[![Namelix](https://urlcare.com/wp-content/uploads/2024/07/namelix-ai-tools.jpg)](https://urlcare.com/namelix)
 
 ## 🔍 Overview
 **Namelix** is an AI-powered business name generator that helps entrepreneurs, startups, and brands create short, catchy, and brandable names. Using advanced machine learning algorithms, Namelix generates unique name ideas based on your keywords, industry, and style preferences.
